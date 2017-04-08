@@ -129,7 +129,7 @@ void deplacement(const Graph& g)
 }
 
 
-// g++ test.c -I/home/hbxxx/boost_1_63_0 -std=c++11
+// g++ fourmis.c -I/home/hbxxx/boost_1_63_0 -std=c++11 -Wall -W
 int main(int,char*[])
 {
   Graph g;
